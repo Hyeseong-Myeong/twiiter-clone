@@ -1,4 +1,3 @@
-import { onChildAdded } from "firebase/database";
 import { addDoc, collection, updateDoc } from "firebase/firestore";
 import { useState } from "react";
 import styled from "styled-components"
